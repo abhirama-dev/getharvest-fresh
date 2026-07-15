@@ -1,0 +1,1 @@
+Get-ChildItem -Path public -Recurse -Filter "index.php" | Where-Object { $_.FullName -like "*produk*" }
