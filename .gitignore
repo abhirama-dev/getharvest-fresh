@@ -128,3 +128,4 @@ _modules/*
 .env
 /writable/*
 !/writable/.gitkeep
+node_modules/
